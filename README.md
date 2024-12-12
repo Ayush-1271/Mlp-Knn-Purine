@@ -29,7 +29,6 @@ Ensure the following libraries are installed:
 - `tensorflow`
 - `matplotlib`
 - `seaborn`
-- `openpyxl`
 
 You can install these dependencies using pip:
 
