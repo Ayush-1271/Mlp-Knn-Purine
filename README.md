@@ -74,8 +74,5 @@ All plots, including the loss function graph, actual vs. predicted values scatte
 ├── README.md           # Documentation file
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For questions or contributions, feel free to open an issue or submit a pull request!
